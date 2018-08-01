@@ -1,6 +1,6 @@
 # Javascript Payment Gateway API for BML and MIB
 
-### This is an approximate javascript port of [this](https://github.com/aharen/Pay) library by [Ahmed Khusaam](https://github.com/aharen), written in PHP.
+### This is an approximate javascript port of [this](https://github.com/aharen/Pay) PHP library by [Ahmed Khusaam](https://github.com/aharen).
 
 This library provides a class with methods to generate transaction requests to the bank's endpoint and parse subsequent responses from the bank posted to the merchant's callback url.
 
