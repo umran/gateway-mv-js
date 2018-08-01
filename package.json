@@ -1,0 +1,28 @@
+{
+  "name": "gateway-mv-js",
+  "version": "1.0.0",
+  "description": "javascript api to generate transaction requests for the Bank of Maldives and Maldives Islamic Bank online payment gateway endpoints",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umran/gateway-mv-js.git"
+  },
+  "keywords": [
+    "bml",
+    "gateway",
+    "payment"
+  ],
+  "author": "Ahmed Umran Hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umran/gateway-mv-js/issues"
+  },
+  "homepage": "https://github.com/umran/gateway-mv-js#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "jshashes": "^1.0.7"
+  }
+}
