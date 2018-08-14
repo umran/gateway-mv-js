@@ -1,6 +1,6 @@
 {
   "name": "gateway-mv-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "javascript api to generate transaction requests for the Bank of Maldives and Maldives Islamic Bank online payment gateway endpoints",
   "main": "./lib/index.js",
   "scripts": {
